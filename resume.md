@@ -64,6 +64,9 @@ Alyce Oh, undergraduate researcher, The Cancer Undergraduate Research Education 
 
 
 ## Publications
+Kate Bowie, Jodi Lapidus, Mark Garzotto, Eric Orwoll, Lisa Karstens. Microbial diversity predicts obstructive and irritative lower urinary tract symptoms (LUTS) in older community-dwelling US men.. _In preparation_.
+
+
 Eva Tonsing-Carter, Kyle M. Hernandez, Caroline R. Kim, Ryan V. Harkless, Alyce Oh, __Kathleen R. Bowie__, Diana C. West-Szymanski, Mayra A. Betancourt-Ponce, Bradley D. Green, Ricardo R. Lastra, Gini F. Fleming, Sarat Chandarlapaty and Suzanne D. Conzen. Glucocorticoid receptor modulation decreases ER-positive breast cancer cell proliferation and suppresses wild-type and mutant ER chromatin association. Breast Cancer Research 2019. 21:82
 
 Diana Christine West, Masha Kocherginsky, Eva Y. Tonsing-Carter, Deniz Nesli Dolcen, David J Hosfield, Ricardo R. Lastra, Jason P Sinnwell, Kevin J Thompson, __Kathleen R. Bowie__, Ryan V Harkless, Maxwell N. Skor, Charles F. Pierce, Sarah C Styke, Caroline R Kim, Larischa de Wet, Geoffrey L Greene, Judy C. Boughey, Matthew P Goetz, Krishna R. Kalari, Liewei Wang, Gini F Fleming, Balázs Győrffy and Suzanne D. Conzen. Discovery of a glucocorticoid receptor (GR) activity signature using selective GR antagonism in ER-negative breast cancer. Clinical Cancer Research April 2018.
@@ -73,13 +76,15 @@ Diana C. West, Deng Pan, Eva Y. Tonsing-Carter, Kyle M. Hernandez, Charles F. Pi
 	 	 	
 
 ## Poster presentations at professional meetings
-Bowie, KR, Lapidus J, Garzotto M, Orwoll E, Karstens, L. (2022). The Urinary Microbiome (Urobiome) Among Older Community-Dwelling Men with and without LUTS. Society of Urodynamics, Female Pelvic Medicine, and Urogenital Reconstruction (SUFU)  2022, San Diego, CA. (moderated poster session)
+Bowie, K.R., Fischer, J., Dahl, E.M., Karstens, L., (2022). Microbial DNA in Blood: Does Fraction Matter?. Lake Arrowhead Microbial Genomics Meeting. Lake Arrowhead, CA. 
 
-Bowie, KR, Furst, A, Schleisman, M, Jallow, F, Davin, S, Rosenbaum, JT, Karstens, L. (2020). To flow or not to flow: considerations for quantitative microbiome profiling. ASM Microbe 2020, Chicago, IL.
+Bowie, K.R., Lapidus, J., Garzotto, M., Orwoll, E., Karstens, L., (2022). The Urinary Microbiome (Urobiome) Among Older Community-Dwelling Men with and without LUTS. Society of Urodynamics, Female Pelvic Medicine, and Urogenital Reconstruction (SUFU)  2022, San Diego, CA. (moderated poster session)
 
-Bowie, KR, Fischer, J, Kulkarni, R. (2019). Bloodbugs: microbiome profiling for early cancer. The Early Detection of Cancer Conference, Stanford University, Palo Alto, CA.
+Bowie, K.R., Furst, A., Schleisman, M., Jallow, F., Davin, S., Rosenbaum, J.T., Karstens, L. (2020). To flow or not to flow: considerations for quantitative microbiome profiling. ASM Microbe 2020, Chicago, IL.
 
-Bowie, KR, Modestino, A, Dixon, S, Heller, M, Ibsen, S. (2018). Dielectrophoresis-based Rapid Purification of Bacterial DNA from Human Blood and Plasma as a potential cancer biomarker. The Early Detection of Cancer Conference, Oregon Health and Science University, Portland, OR. 
+Bowie, K.R., Fischer, J., Kulkarni, R. (2019). Bloodbugs: microbiome profiling for early cancer. The Early Detection of Cancer Conference, Stanford University, Palo Alto, CA.
+
+Bowie, K.R., Modestino, A., Dixon, S., Heller, M., Ibsen, S. (2018). Dielectrophoresis-based Rapid Purification of Bacterial DNA from Human Blood and Plasma as a potential cancer biomarker. The Early Detection of Cancer Conference, Oregon Health and Science University, Portland, OR. 
 
 
 <!-- ### Footer
