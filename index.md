@@ -3,20 +3,18 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Hello hi! I’m Kate Bowie, a midwesterner studying the human microbiome as part of the [Karstens' lab](https://karstenslab.github.io). I grew up in [Indiana](https://commons.wikimedia.org/wiki/File:Map_of_USA_IN.svg#/media/File:Map_of_USA_IN.svg) and moved to Portland, Oregon to work on a biomedical engineering PhD at Oregon Health and Science University (OHSU). Sure, I spend a lot of time in the laboratory thinking about all the microbes inhabiting the human body and their impact on disease… but I do my *best* to stay balanced with other hobbies. When I’m not in the lab and our world isn’t enduring a pandemic, I love seeing live music, playing soccer, and backpacking. 
+Hello hi! I’m Kate Bowie, a postdoc studying the microbiome of the built environment at Yale University. I work across the [Peccia lab](https://peccialab.yale.edu) and [Gerstein lab](https://www.gersteinlab.org), where I apply computational tools to tackle environmental engineering questions. My research spans the high biomass world of wastewater, all the way to the sparse and notoriously challenging indoor air microbiome. I'm fascinated by how these microbes evolve in these spaces and how these changes impact human health. 
 
 
-I'm hoping to graduate in May 2023 and am looking for a postdoctoral position continuing to study microbes. I'm particularly fascinated by bacteriophages and believe there's so much potential for utilizing those viruses to combat/better understand human diseases as well as in agriculture. I'm primarily interested in doing drylab work analyzing complex data including (but not limited to) next generation sequencing, metabolomics, and proteomics, but do have many years of wetlab experience. I'm looking for a laboratory that's both supportive but also gives me space to ask and explore my own research questions. I'm curious, hardworking, and passionate about trying to understand the microbes we share space with. 
+I recieved my PhD from Oregon Health & Science University in Portland, Oregon. I was part of the [Karstens' lab](https://karstenslab.github.io), where I mainly focused on the urinary microbiome. I grew up in [Indiana](https://commons.wikimedia.org/wiki/File:Map_of_USA_IN.svg#/media/File:Map_of_USA_IN.svg). I'm curious, hardworking, and passionate about trying to understand the microbes we share space with. 
 
 
 
 
 ## Current Interests and Projects:
 
-- finding a postdoc doing research I'm passionate about!
-- the urinary microbiome and lower urinary tract symptoms
-- circulating microbial DNA in the context of prostate cancer
-- [Frictionless Reproducible Data Fellows Program](https://fellows.frictionlessdata.io)
-- puppies
+- Finding a tenure-track faculty position
+- How biofilms in sink drains change with disinfection
+- Climate change's impact on the outdoor air microbiome
 - Data visualization
-- King of the Hill
+- ice hockey
