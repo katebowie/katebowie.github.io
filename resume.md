@@ -21,6 +21,7 @@ PhD-trained scientist and data visualization specialist with a passion for ice h
 **Biomedical Informatics Fellow**
 
 
+
 **Yale University** | New Haven, CT  
 *January 2024 – Present*
 
