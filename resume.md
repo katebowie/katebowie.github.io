@@ -1,7 +1,6 @@
 ---
 layout: resume
 ---
-
 # Kathleen (Kate) Bowie
 
 📧 kathleenrbowie@gmail.com | 📱 574-904-1552 | 💻 [github.com/katebowie](https://github.com/katebowie)
@@ -16,24 +15,24 @@ PhD-trained scientist and data visualization specialist with a passion for ice h
 
 ## Experience
 
-### Biomedical Informatics Fellow
-**Yale University** • New Haven, CT • *January 2024 – Present*
+**Biomedical Informatics Fellow**  
+Yale University • New Haven, CT • *January 2024 – Present*
 
 - Transform complex biomedical data into clear visualizations and statistical narratives for diverse audiences including clinicians, researchers, and the public
 - Design and build reproducible data processing pipelines using R and Python for large-scale datasets
 - Collaborate across multidisciplinary teams to identify compelling data stories and statistical insights
 - Mentor graduate students on data analysis, visualization techniques, and scientific communication
 
-### PhD Researcher, Data Science & Visualization
-**Oregon Health & Science University** • Portland, OR • *September 2017 – December 2023*
+**PhD Researcher, Data Science & Visualization**  
+Oregon Health & Science University • Portland, OR • *September 2017 – December 2023*
 
 - Published peer-reviewed research in Nature Communications Medicine using advanced statistical methods and data visualization to communicate findings on microbiome diversity and health outcomes
 - Developed **microshades**, an open-source R package for improving color accessibility in data visualization, now widely adopted across research communities (Top-Cited Author, ASM 2023)
 - Built custom data analysis workflows to extract meaningful patterns from noisy, high-dimensional datasets
 - Presented complex data findings to varied audiences through conference talks, posters, and written publications
 
-### Research Assistant
-**University of Chicago** • Chicago, IL • *August 2015 – August 2017*
+**Research Assistant**  
+University of Chicago • Chicago, IL • *August 2015 – August 2017*
 
 - Analyzed experimental data and created visualizations to support research publications and grant applications
 
