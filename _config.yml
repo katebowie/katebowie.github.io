@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Kate Bowie's Search for a PostDoc
+title: Kate Bowie - Analytics & Data Viz
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Kate Bowie
   avatar: bio-photo.jpg
-  bio: "Chemical engineer turned human microbiome researcher; Looking for a postdoc to hone skills studying bacteriophage"
+  bio: "NLM/NIH Postdoctoral Fellow in Bioinformatics | R enthusiast | Data analysis, visualization, and storytelling"
   email: kathleenrbowie@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: katerbowie
