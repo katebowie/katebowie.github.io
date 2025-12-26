@@ -1,7 +1,7 @@
 ---
 layout: resume
 ---
-# Kathleen (Kate) Bowie
+
 
 📧 kathleenrbowie@gmail.com | 📱 574-904-1552 | 💻 [github.com/katebowie](https://github.com/katebowie)
 
