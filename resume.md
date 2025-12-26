@@ -2,89 +2,89 @@
 layout: resume
 ---
 
-## Currently
+# Kathleen (Kate) Bowie
 
-__PhD Candidate at Oregon Health and Science University__
-  - Studying low-microbial biomass human specimens (urine and blood) with respect to prostate disorders
-  - Developing bioinformatic pipelines 
+**Email:** kathleenrbowie@gmail.com  
+**Phone:** 574-904-1552  
+**GitHub:** [github.com/katebowie](https://github.com/katebowie)
 
+---
 
+## About
+
+PhD-trained scientist and data visualization specialist with a passion for ice hockey, the English Premier League, and college football. Experienced in translating complex datasets into clear, engaging stories for broad audiences through thoughtful visual design. Collaborative and detail-oriented, with experience in creating reproducible workflows and generating publication-ready visualizations.
+
+---
+
+## Experience
+
+### Biomedical Informatics Fellow
+**Yale University** | New Haven, CT  
+*January 2024 – Present*
+
+- Transform complex biomedical data into clear visualizations and statistical narratives for diverse audiences including clinicians, researchers, and the public
+- Design and build reproducible data processing pipelines using R and Python for large-scale datasets
+- Collaborate across multidisciplinary teams to identify compelling data stories and statistical insights
+- Mentor graduate students on data analysis, visualization techniques, and scientific communication
+
+### PhD Researcher, Data Science & Visualization
+**Oregon Health & Science University** | Portland, OR  
+*September 2017 – December 2023*
+
+- Published peer-reviewed research in Nature Communications Medicine using advanced statistical methods and data visualization to communicate findings on microbiome diversity and health outcomes
+- Developed microshades, an open-source R package for improving color accessibility in data visualization, now widely adopted across research communities (Top-Cited Author, ASM 2023)
+- Built custom data analysis workflows to extract meaningful patterns from noisy, high-dimensional datasets
+- Presented complex data findings to varied audiences through conference talks, posters, and written publications
+
+### Research Assistant
+**University of Chicago** | Chicago, IL  
+*August 2015 – August 2017*
+
+- Analyzed experimental data and created visualizations to support research publications and grant applications
+
+---
+
+## Technical Skills
+
+**Data Visualization & Graphics**  
+Expert in ggplot2 (R), matplotlib/seaborn (Python), and design principles for publication-quality graphics. Experience with interactive visualizations (shinyapps) and web-based data applications.
+
+**Statistical Analysis**  
+Strong foundation in statistical methods, uncertainty quantification, and communicating statistical findings to non-technical audiences.
+
+**Programming & Reproducibility**  
+Proficient in R (tidyverse, RMarkdown) and Python (pandas, NumPy). Experienced with version control (Git/GitHub), code review, and building reproducible analytical workflows.
+
+**Data Pipeline Engineering**  
+Experience processing large datasets, handling missing or noisy data, and building automated data processing pipelines from raw data to publication-ready outputs.
+
+---
 
 ## Education
 
-`2010 - 2015`
-__University of Notre Dame__
-  - B.S. Chemical Engineering
-  - B.A. German Language and Literature
+**PhD in Biomedical Engineering**  
+Oregon Health & Science University | 2023
 
+**BS Chemical Engineering, BA German Language & Literature**  
+University of Notre Dame | 2015
 
+---
 
+## Selected Publications
 
+**Bowie, K.R., et al. (2025).** Disinfection of Hospital Sink Drains Enriches Pseudomonadota and Efflux Pump-Mediated Antibiotic Resistance in Reestablished Biofilms. *Under Review*.
 
-## Research positions
-PhD graduate student, Knight Cancer Early Detection Advanced Research Center, Oregon Health and Science University, Portland, OR; 09/2017 – present.
+**Bowie, K.R., et al. (2025).** Body mass index and benign prostatic hyperplasia correlate with urinary microbiome diversity and lower urinary tract symptoms in men. *Communications Medicine* 5, 159.
 
-Research Assistant, Suzanne Conzen laboratory, University of Chicago, Chicago IL; 08/2015 – 08/2017 
+**Dahl, E.M., Bowie, K.R., et al. (2022).** microshades: An R Package for Improving Color Accessibility and Organization of Microbiome Data. *Microbiology Resource Announcements* 11.
 
-Summer intern researcher, Xiaohu Gao laboratory, University of Washington, Seattle, WA; 06/2014 – 08/2014.
+---
 
+## Awards & Honors
 
-## Skills
-  - Experience handling and processing human clinical trial samples 
-  - Wet lab: Mammalian cell culture, lentiviral transduction, murine models, DNA extraction, next generation sequencing, droplet-digital PCR, fluorescence microscopy
-  - Programming: R (ggplot2, tidyverse, phyloseq), RMarkdown, Python (pandas, NumPy)
-
-
-## Awards and Honors
-  - Co-chair of Data Committee on Diversity Advisory Committee within the Cancer Early Detection Advanced Research Centers (11/2020 – 11/2021)
-  - Frictionless Fellow for Reproducible Data through the Open Knowledge Foundation (08/2020 – 04/2021)
-  - Awarded CEDAR funding for Bloodbugs: Microbiome Profiling for Early Cancer (09/2019 – present)
-
-			
-## Memberships in professional societies
-  - AFSCME Graduate Researchers United, 2020 – present 
-  - American Society for Microbiology, 2019 – present 
-  - American Association for Cancer Research, 2018 – present
-  - American Association for the Advancement of Science, 2017 – present
-  - Women in Science, Portland, 2017 – present
-
-
-## Student mentoring and outreach
-Anagha Shenoy and Elizabeth Ruitt, Department of Medical Informatics and Epidemiology Summer Research program, Oregon Health and Science University, Portland, OR; 06/2022-08/2022.
-
-Palmer Bassett, Department of Medical Informatics and Epidemiology Summer Research program, Oregon Health and Science University, Portland, OR; 06/2021-08/2021.
-
-Volunteer at OHSU covid-19 vaccine clinic, Portland, OR 01/2021
-
-Science fair judge, Northwest Science Expo, Portland Public Schools, Portland, OR 04/09/20.
-
-Guest panelist, Knight Scholars program, Oregon Health and Science University, Portland, OR; 7/10/19.
-
-Alyce Oh, undergraduate researcher, The Cancer Undergraduate Research Education (CURE), University of Chicago, Chicago, IL; 05/2017-08/2017.
-
-
-## Publications
-Kate Bowie, Jodi Lapidus, Mark Garzotto, Eric Orwoll, Lisa Karstens. Microbial diversity predicts obstructive and irritative lower urinary tract symptoms (LUTS) in older community-dwelling US men.. _In preparation_.
-
-
-Eva Tonsing-Carter, Kyle M. Hernandez, Caroline R. Kim, Ryan V. Harkless, Alyce Oh, __Kathleen R. Bowie__, Diana C. West-Szymanski, Mayra A. Betancourt-Ponce, Bradley D. Green, Ricardo R. Lastra, Gini F. Fleming, Sarat Chandarlapaty and Suzanne D. Conzen. Glucocorticoid receptor modulation decreases ER-positive breast cancer cell proliferation and suppresses wild-type and mutant ER chromatin association. Breast Cancer Research 2019. 21:82
-
-Diana Christine West, Masha Kocherginsky, Eva Y. Tonsing-Carter, Deniz Nesli Dolcen, David J Hosfield, Ricardo R. Lastra, Jason P Sinnwell, Kevin J Thompson, __Kathleen R. Bowie__, Ryan V Harkless, Maxwell N. Skor, Charles F. Pierce, Sarah C Styke, Caroline R Kim, Larischa de Wet, Geoffrey L Greene, Judy C. Boughey, Matthew P Goetz, Krishna R. Kalari, Liewei Wang, Gini F Fleming, Balázs Győrffy and Suzanne D. Conzen. Discovery of a glucocorticoid receptor (GR) activity signature using selective GR antagonism in ER-negative breast cancer. Clinical Cancer Research April 2018.
-
-Diana C. West, Deng Pan, Eva Y. Tonsing-Carter, Kyle M. Hernandez, Charles F. Pierce, Sarah C. Styke, __Kathleen R. Bowie__, Tzintzuni I. Garcia, Masha Kocherginsky, and  Suzanne D. Conzen. GR and ER co-activation alters the expression of differentiation genes and associates with improved ER+ breast cancer outcome. Molecular Cancer Research August 2017.
-
-	 	 	
-
-## Poster presentations at professional meetings
-Bowie, K.R., Fischer, J., Dahl, E.M., Karstens, L., (2022). Microbial DNA in Blood: Does Fraction Matter?. Lake Arrowhead Microbial Genomics Meeting. Lake Arrowhead, CA. 
-
-Bowie, K.R., Lapidus, J., Garzotto, M., Orwoll, E., Karstens, L., (2022). The Urinary Microbiome (Urobiome) Among Older Community-Dwelling Men with and without LUTS. Society of Urodynamics, Female Pelvic Medicine, and Urogenital Reconstruction (SUFU)  2022, San Diego, CA. (moderated poster session)
-
-Bowie, K.R., Furst, A., Schleisman, M., Jallow, F., Davin, S., Rosenbaum, J.T., Karstens, L. (2020). To flow or not to flow: considerations for quantitative microbiome profiling. ASM Microbe 2020, Chicago, IL.
-
-Bowie, K.R., Fischer, J., Kulkarni, R. (2019). Bloodbugs: microbiome profiling for early cancer. The Early Detection of Cancer Conference, Stanford University, Palo Alto, CA.
-
-Bowie, K.R., Modestino, A., Dixon, S., Heller, M., Ibsen, S. (2018). Dielectrophoresis-based Rapid Purification of Bacterial DNA from Human Blood and Plasma as a potential cancer biomarker. The Early Detection of Cancer Conference, Oregon Health and Science University, Portland, OR. 
+- **Best Poster Presentation**, Gordon Research Conference for Microbiology of the Built Environment (2025)
+- **ASM Top-Cited Author** for microshades R package (2023)
+- **National Library of Medicine Fellowship** in Biomedical Informatics and Data Science (2024-present)
 
 
 <!-- ### Footer
