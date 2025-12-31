@@ -16,7 +16,7 @@ Outside of my postdoc, I spend most of my time both playing and watching ice hoc
 
 ## Current Interests and Projects:
 
-- Exploring hockey analytics!
+- Exploring sports analytics!
 - Data visualization
 - weightlifting
 - powerskating
