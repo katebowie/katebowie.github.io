@@ -1,7 +1,8 @@
 ---
 layout: presentation-post-index
-title: Projects
+title: Blog
 excerpt: "Recent Presentations"
+permalink: /blog/
 ---
 
 
