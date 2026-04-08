@@ -2,7 +2,7 @@
 layout: post
 title: "2026 NHL Playoff Predictions"
 date: 2026-04-08
-categories: blog
+category: blog
 excerpt: "A dashboard using 500 Monte Carlo simulations to predict NHL playoff probabilities, built with Python and Streamlit."
 ---
 
