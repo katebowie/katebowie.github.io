@@ -9,27 +9,13 @@ category: presentation
 ---
 <section data-markdown>
 
-# Reveal.js and Jekyll Academic
+# 2026 NHL Playoff Predictions
 
 
-</section>
+Quick project (~3 hours) building a dashboard to visualize the probability a NHL team will make it ot the playoffs. These predictions are based off of 500 simulations of the remaining games in the season, and data is pulled each time the page loads. The teams are evaluated based on season performance plus how well they performed in their last 10 games (hot streak). The teams go head to head and simulations are run 500 times to evaluate how many times the team qualifies for the playoffs. Predictions generally match [MoneyPuck]([https://moneypuck.com/predictions.htm]). In the future, I plan to expand upon these types of projects with more advanced predictions for each game, but this was a fun start.  
 
-<section data-markdown>
-## HTML or Markdown
-Reveal.js works with either. Use whatever you are more comfortable with.
 
-</section>
-
-<section data-markdown>
-## Works Anywhere
-
-By creating presentations using Reveal.js and hosting them on your Jekyll Academic site you will have access to them anywhere. No need to worry about software compatibility, no need to sign in to email accounts on public machines. Simply load your website and select the presentation.
-
-</section>
-<section data-markdown>
-## More Information
-
-Jekyll Academic includes everything that you need in order to make Reveal.js work. Copy this file and edit it to begin making your own slide deck.  
+[NHL Playoff Predictions]([https://www.example.com](https://katebowie-nhl-dashboard.streamlit.app))  
 
 For more information about all of the options available in Reveal.js please the [Reveal.js Demo Website](https://lab.hakim.se/reveal-js/#/)
 
