@@ -1,8 +1,4 @@
 ---
-layout: presentation-post-index
-title: Blog
-excerpt: "Recent Presentations"
+layout: post-index
+title: All Blog Posts
 ---
-
-
-
